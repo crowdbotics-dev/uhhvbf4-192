@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5b96a89284243a3c89297c86ca205c4331979ddc86a5274f68383d4c17da9976"
+            "sha256": "8c9f784dc0dbf49500a65b798afc00fe8536c1c8868992774606aa924dc4aafd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -67,6 +67,10 @@
         "cb-django-articles": {
             "editable": true,
             "path": "./modules/django_articles"
+        },
+        "cb-django-booking": {
+            "editable": true,
+            "path": "./modules/django_booking"
         },
         "certifi": {
             "hashes": [
